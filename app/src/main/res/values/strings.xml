@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">College</string>
+    <string name="action_settings">Settings</string>
+    <string name="login"><u>I already have an account , login</u></string>
+    <string name="register_text"><u>Register</u></string>
+    <string name="login_text"><u>Login</u></string>
+    <string name="authkey">261021AcrXDTWC3h5c555ba9</string>
+    <integer name="otp_length">6</integer>
+    <integer name="otp_expiry">1414</integer>
+    <string name="sender">HT-COLL</string>
+
+
+    <string name="otp"><![CDATA[<font color="#a3a3a3">We will send you an</font> <font color="#000000">One Time Password</font> <font color="#a3a3a3">on this mobile number</font>]]></string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">Enter OTP send to </font></string>
+    <string name="som"><![CDATA[<font color="#a3a3a3">Enter OTP send to </font> <font color="#000000">+91-9876-564-656</font>]]></string>
+</resources>
